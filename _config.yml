@@ -48,6 +48,7 @@ round-avatar: true
 social-network-links:
   twitter: biancalovesfilm
   instagram: biancalovesfilm
+  letterboxd: letterboxd.com/biancalovesfilm
   spotify: https://open.spotify.com/user/hzx827e58k1cs84ffmgoly22v?si=b289f7a218564435
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -87,9 +88,9 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
-  vk: false
-  reddit: false
+  instagram: true
+  letterboxd: true
+  spotify: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
