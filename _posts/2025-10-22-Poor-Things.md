@@ -2,8 +2,8 @@
 layout: post
 title: Poor Things Review
 subtitle: Review of the 2023 Yorgos Lanthimos film, Poor Things 
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/poorthings.jpg
+thumbnail-img: /assets/img/poorthings2.jpg
 share-img: /assets/img/path.jpg
 tags: [film, 2023, yorgo lanthimos]
 author: Bianca Wilson
