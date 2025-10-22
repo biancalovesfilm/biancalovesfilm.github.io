@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Poor Things Review
-subtitle: Review of the 2023 Yorgos Lanthimos film, Poor Things 
+title: Poor Things
+subtitle: Frankenstein meets feminism in the award winning book adaptation from Yorgos Lanthimos
 cover-img: /assets/img/poorthings.jpg
 thumbnail-img: /assets/img/poorthings2.jpg
 share-img: /assets/img/path.jpg
