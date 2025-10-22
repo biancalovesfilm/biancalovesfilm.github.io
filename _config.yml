@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Bianca Loves Film
+title: biancalovesfilm
 
 # Your name to show in the footer
 author: Bianca Wilson
@@ -23,7 +23,6 @@ timezone: Australia/Melbourne
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
 
 ################
 # --- Logo --- #
