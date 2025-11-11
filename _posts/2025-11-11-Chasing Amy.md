@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chasing Amy
+title: Chasing Amy - Criterion 1
 subtitle: And the documentary that ironically far succeeds it
 cover-img: /assets/img/chasingamybanner.jpeg
 thumbnail-img: /assets/img/chasingamyposter.jpeg
