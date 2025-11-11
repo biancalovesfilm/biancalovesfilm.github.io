@@ -2,8 +2,8 @@
 layout: post
 title: Chasing Amy
 subtitle: And the documentary that ironically far succeeds it
-cover-img: /assets/img/Sinners2.jpg
-thumbnail-img: /assets/img/sinners1.jpg
+cover-img: /assets/img/chasingamybanner.jpeg
+thumbnail-img: /assets/img/chasingamyposter.jpeg
 share-img: /assets/img/path.jpg
 tags: [film, 1997, criterion]
 author: Bianca Wilson
