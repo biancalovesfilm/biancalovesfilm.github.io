@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Criterion #1 - Chasing Amy
+title: Chasing Amy
 subtitle: And the documentary that ironically far succeeds it
 cover-img: /assets/img/Sinners2.jpg
 thumbnail-img: /assets/img/sinners1.jpg
