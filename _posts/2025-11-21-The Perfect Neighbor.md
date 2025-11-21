@@ -5,7 +5,7 @@ subtitle: A brief summary of the year's potential best documentary feature
 cover-img: /assets/img/theperfectbanner.jpeg
 thumbnail-img: /assets/img/theperfectposter.jpeg
 share-img: /assets/img/path.jpg
-tags: [film, 2025 award season]
+tags: [documentary, 2025 award season]
 author: Bianca Wilson
 ---
 
