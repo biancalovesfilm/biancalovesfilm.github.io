@@ -5,7 +5,7 @@ subtitle: And the documentary that ironically far surpasses it
 cover-img: /assets/img/chasingamybanner.jpeg
 thumbnail-img: /assets/img/chasingamyposter.jpeg
 share-img: /assets/img/path.jpg
-tags: [criterion]
+tags: [film, documentary]
 author: Bianca Wilson
 ---
 I have a feeling this will probably be a long write up so I’ll try to keep it shorter here. The Criterion Collection, for the uninitiated is a curated line of home media content (4K, Blu-Rays and DVD) with a focus on preserving ‘important classic and contemporary films on home video’. Over 40 years of operation, it has garnered a cult following for its eclectic selection of foreign film, classics and importantly, the introduction of a larger audience to smaller indie productions. 
