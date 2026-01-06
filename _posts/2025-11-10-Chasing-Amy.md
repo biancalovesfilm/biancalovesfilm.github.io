@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beales of Grey Gardens
-subtitle: Criterion Challenge 2026 #1
+subtitle: Criterion Challenge 2026 - Week 1
 cover-img: /assets/img/bealesbanner.jpeg
 thumbnail-img: /assets/img/bealesposter.jpeg
 share-img: /assets/img/path.jpg
