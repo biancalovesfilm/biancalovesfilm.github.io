@@ -4,7 +4,7 @@ title: People We Meet on Vacation
 subtitle: The first book to screen adaptation for bestselling author Emily Henry
 cover-img: /assets/img/pwmovb.jpeg
 thumbnail-img: /assets/img/pwmovp.jpeg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/pwmovb.jpg
 tags: [2026, netflix]
 author: Bianca Wilson
 ---
