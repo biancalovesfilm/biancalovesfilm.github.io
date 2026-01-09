@@ -1,7 +1,7 @@
 ---
 layout: post
 title: People We Meet on Vacation
-subtitle: The First of Many Screen Adaptations for Bestselling Author Emily Henry
+subtitle: The first book to screen adaptation for bestselling author Emily Henry
 cover-img: /assets/img/pwmovb.jpeg
 thumbnail-img: /assets/img/pwmovp.jpeg
 share-img: /assets/img/path.jpg
