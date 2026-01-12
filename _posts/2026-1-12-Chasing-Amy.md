@@ -1,3 +1,13 @@
+---
+layout: post
+title: Chasing Amy
+subtitle: Criterion Challenge 2026 - Week 2
+cover-img: /assets/img/chaisngamybanner.jpeg
+thumbnail-img: /assets/img/chasingamyposter.jpeg
+share-img: /assets/img/chasingamybanner.jpg
+tags: [film, criterion challenge]
+author: Bianca Wilson
+---
 The Criterion Collection, for the uninitiated is a curated line of home media content (4K, Blu-Rays and DVD) with a focus on preserving ‘important classic and contemporary films on home video’. Over 40 years of operation, it has garnered a cult following for its eclectic selection of foreign film, classics and importantly, the introduction of a larger audience to smaller indie productions. 
 
 My first Criterion DVD was Kevin Smith’s Chasing Amy, the directors only entry into the collection. As much as I would like to pretend I have ever so carefully selected a first film for my collecting endeavours, it only cost me seven dollars (Not including the other DVD which I had to throw out to replace the case because it was so gross). It therefore bears the burden of being the film of choice for this week’s Criterion challenge category of films not on your watchlist. I was not even aware of this films existence before getting the Criterion, I have to be honest. Chasing Amy interestingly comes up a lot in conversations about films that should not have realistically made it to the collection. Quite honestly, I was very curious to look at Chasing Amy, because for reasons I’ll shortly outline, the movie simultaneously captures a very brief moment in time, which I’m glad we have moved on from, but also is oddly assertive today, particularly with the addition of the documentary Chasing Chasing Amy.
