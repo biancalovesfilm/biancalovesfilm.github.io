@@ -5,7 +5,7 @@ subtitle: Criterion Challenge 2026 - Week 2
 cover-img: /assets/img/chaisngamybanner.jpeg
 thumbnail-img: /assets/img/chasingamyposter.jpeg
 share-img: /assets/img/chasingamybanner.jpg
-tags: [film, criterion challenge]
+tags: [criterion]
 author: Bianca Wilson
 ---
 The Criterion Collection, for the uninitiated is a curated line of home media content (4K, Blu-Rays and DVD) with a focus on preserving ‘important classic and contemporary films on home video’. Over 40 years of operation, it has garnered a cult following for its eclectic selection of foreign film, classics and importantly, the introduction of a larger audience to smaller indie productions. 
