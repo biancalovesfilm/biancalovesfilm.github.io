@@ -1,9 +1,9 @@
 layout: post
 title: Days of Wine and Roses
 subtitle: Criterion Challenge 2026 - Week 3
-cover-img: /assets/img/theripbanner.jpeg
-thumbnail-img: /assets/img/theripposter.jpeg
-share-img: /assets/img/theripbanner.jpg
+cover-img: /assets/img/winebanner.jpeg
+thumbnail-img: /assets/img/wineposter.jpeg
+share-img: /assets/img/winebanner.jpeg
 tags: [criterion]
 author: Bianca Wilson
 
