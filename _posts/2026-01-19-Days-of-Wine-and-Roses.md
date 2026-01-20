@@ -1,3 +1,12 @@
+layout: post
+title: Days of Wine and Roses
+subtitle: Matt Damon and Ben Affleck star as Miami Cops, from Netflix
+cover-img: /assets/img/theripbanner.jpeg
+thumbnail-img: /assets/img/theripposter.jpeg
+share-img: /assets/img/theripbanner.jpg
+tags: [criterion]
+author: Bianca Wilson
+
 Week 3 of the Criterion challenge and we’ve already arrived at a bit of a rulebreaker. As per usual a quick introduction: Criterion produces a line of boutique Blu-rays that highlight culturally important as well as underseen cinema, spanning across each decade of film. The challenge is the combination of 52 categories, with one film from the collection to be watched for each. In 2026 in an effort to expand my physical collection and my film knowledge, I am reviewing a film both on my Letterboxd and my blog, biancalovesfilm, at the start of every week.
 
 This weeks choice is an unconventional one, The Days of Wine and Roses, for the category, watch a film with a colour in the title. Although a film exists for this work, the Criterion release is the predecessor, a live television play. The teleplay comes in a collection of 8 other similar works of the same time period as the name suggests, the first ‘Golden Age of Television’ during the 1950s. Television couldn't have been invented at a single moment, but existed for almost 2 decades prior to this, but of course the Great Depression and war efforts stifled any recreational television use for a long time. Following this is what is presented in the collection, television was almost only viewed as an event rather than a regular occurrence. None of the collection had been screened more than once until they came together in this set, originally produced to air live on American cable television in the eighties, and here, preserved on DVD (and subsequently the internet, of course).
