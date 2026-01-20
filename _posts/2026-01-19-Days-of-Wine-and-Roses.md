@@ -1,3 +1,4 @@
+------------
 layout: post
 title: Days of Wine and Roses
 subtitle: Criterion Challenge 2026 - Week 3
@@ -6,6 +7,7 @@ thumbnail-img: /assets/img/wineposter.jpeg
 share-img: /assets/img/winebanner.jpeg
 tags: [criterion]
 author: Bianca Wilson
+-------------
 
 Week 3 of the Criterion challenge and we’ve already arrived at a bit of a rulebreaker. As per usual a quick introduction: Criterion produces a line of boutique Blu-rays that highlight culturally important as well as underseen cinema, spanning across each decade of film. The challenge is the combination of 52 categories, with one film from the collection to be watched for each. In 2026 in an effort to expand my physical collection and my film knowledge, I am reviewing a film both on my Letterboxd and my blog, biancalovesfilm, at the start of every week.
 
