@@ -1,6 +1,6 @@
 layout: post
 title: Days of Wine and Roses
-subtitle: Matt Damon and Ben Affleck star as Miami Cops, from Netflix
+subtitle: Criterion Challenge 2026 - Week 3
 cover-img: /assets/img/theripbanner.jpeg
 thumbnail-img: /assets/img/theripposter.jpeg
 share-img: /assets/img/theripbanner.jpg
