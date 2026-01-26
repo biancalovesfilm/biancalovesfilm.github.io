@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 28 Years Later: The Bone Temple
+title: 28 Years Later, The Bone Temple
 subtitle: Matt Damon and Ben Affleck star as Miami Cops, from Netflix
 cover-img: /assets/img/theripbanner.jpeg
 thumbnail-img: /assets/img/theripposter.jpeg
