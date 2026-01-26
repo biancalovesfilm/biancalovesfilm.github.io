@@ -1,13 +1,3 @@
----
-layout: post
-title: 28 Years Later: The Bone Temple
-subtitle: A brief look at the religious symbolism and theories on the franchises future
-cover-img: /assets/img/28banner.jpeg
-thumbnail-img: /assets/img/28poster.jpeg
-share-img: /assets/img/28banner.jpeg
-tags: [2026]
-author: Bianca Wilson
----
 
 28 Years Later, releasing in June of 2025, follows on from the 2002 and 2007 installments of Danny Boyle’s hit zombie franchise. It depicts the spread of the ‘Rage Virus’, turning humans into zombie-like creatures throughout the British mainland, where survivors are left to fend for themselves. The opening scene immediately establishes the new direction for the franchise: a boy named Jimmy, witnesses his mother becoming infected and runs to the church to find his father, the vicar. He proclaims she is not dead, she has instead been saved, when inevitably the church windows smash, the zombies enter, and his father is taken. This leaves Jimmy all alone to escape, only clutching his necklace, with the cross upside down.
 
