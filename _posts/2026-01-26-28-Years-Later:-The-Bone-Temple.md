@@ -1,4 +1,13 @@
-
+---
+layout: post
+title: 28 Years Later: The Bone Temple
+subtitle: Matt Damon and Ben Affleck star as Miami Cops, from Netflix
+cover-img: /assets/img/theripbanner.jpeg
+thumbnail-img: /assets/img/theripposter.jpeg
+share-img: /assets/img/theripbanner.jpg
+tags: [2026, netflix]
+author: Bianca Wilson
+---
 28 Years Later, releasing in June of 2025, follows on from the 2002 and 2007 installments of Danny Boyle’s hit zombie franchise. It depicts the spread of the ‘Rage Virus’, turning humans into zombie-like creatures throughout the British mainland, where survivors are left to fend for themselves. The opening scene immediately establishes the new direction for the franchise: a boy named Jimmy, witnesses his mother becoming infected and runs to the church to find his father, the vicar. He proclaims she is not dead, she has instead been saved, when inevitably the church windows smash, the zombies enter, and his father is taken. This leaves Jimmy all alone to escape, only clutching his necklace, with the cross upside down.
 
 The 2nd part of the planned 28 Years Later trilogy, The Bone Temple, released this month, effectively clarifies the commentary on religious extremism that’s set up in its predecessor. This review considers both films theoretically from this angle.
