@@ -1,17 +1,13 @@
 ---
 layout: post
 title: The Beales of Grey Gardens
-subtitle: Criterion Challenge 2026 - Week 1
+subtitle: The Criterion Collection #1
 cover-img: /assets/img/bealesbanner.jpeg
 thumbnail-img: /assets/img/bealesposter.jpeg
 share-img: /assets/img/path.jpg
 tags: [documentary, criterion]
 author: Bianca Wilson
 ---
-Welcome to my Criterion challenge for 2026! I started this blog last year but I’ve struggled a bit with getting into the routine of writing so I’ve decided for this year, I’m going to complete the annual Criterion challenge from Ben over on Letterboxd, and I’ll cover it here. Spanning 52 categories spilt into weekly instalments, I’ll be growing my physical Criterion collection in an efforts to dually expand my writing and my movie vocabulary, published right here at the start of every week.
-
-This week is focused on 20th anniversary releases, the films that Criterion distributed in 2006. I’ve chosen to cover The Beales of Grey Gardens and subsequently its predecessor, the 1975 instant cult classic documentary. Both films take an observational lens to the lives of Edie and her mother Edith Beale’s eccentric lives in the titular Grey Gardens. 
-
 In a previous life, the Beales were socialites with influential family, being notably related to the former U.S. First Lady Jacqueline Kennedy. However, the co-dependent relationship between them, as facilitated by Edith, put a strain on the family unit, leading to the eventual separation of the previously wealthy Phelan Beale from his wife Edith. Many events transpired here which can probably be answered a lot more interestingly with a quick deep dive on YouTube than I can put into writing here, but eventually after a short stint in New York, Edie was once again dragged back to be with her mother, in the estate in Grey Gardens. This was the last thing left to them by Phelan, who at this point was flat broke.
 
 In October of 1971, police raided the property and deemed it unsafe for human inhabitance, finding cat litter flooding the house and the violation of numerous local ordinances. Quickly reacting to this, the better off members of the Beale family paid to have the property renovated, settle taxes and to give the women an income to live on. In due course, brothers Albert and David Maysles came to meet the women, and financed the project, fascinated by the lives the two led.
