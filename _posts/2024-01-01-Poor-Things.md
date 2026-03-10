@@ -2,9 +2,9 @@
 layout: post
 title: Poor Things
 subtitle: Yorgos Lanthimos' Fusion of Frankenstein and Feminism
-cover-img: /assets/img/sinners2.jpg
-thumbnail-img: /assets/img/sinners1.jpg
-share-img: /assets/img/sinners2.jpg
+cover-img: /assets/img/poorbanner.jpg
+thumbnail-img: /assets/img/poorposter.jpg
+share-img: /assets/img/poorbanner.jpg
 tags: [2023]
 author: Bianca Wilson
 ---
