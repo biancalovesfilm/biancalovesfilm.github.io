@@ -1,3 +1,13 @@
+---
+layout: post
+title: Poor Things: Unlearning the World
+subtitle: Yorgos Lanthimos' Fusion of Frankenstein and Feminism
+cover-img: /assets/img/sinners2.jpg
+thumbnail-img: /assets/img/sinners1.jpg
+share-img: /assets/img/sinners2.jpg
+tags: [2023]
+author: Bianca Wilson
+---
 For some too intimately, Yorgos Lanthimos’s Poor Things expertly explores society’s obsession with innocence and virginity, balancing both the uncanny and profound, asking the viewer to embrace vulgarity, over new-age diplomacy.
 
 This message is not delivered subtly, making the film much more on the nose than Lanthinimos’s usual works. He achieves his vision through a meticulously crafted world, juxtaposing our own society with a frankly insane array of architecture and outfits, completely overwhelming the senses. When paired with a stellar lead performance from Emma Stone and a nothing short of brilliant soundtrack from Jerskin Fendrix you certainly have one of the sight and sound experiences of the year.
