@@ -2,8 +2,8 @@
 layout: post
 title: Picnic at Hanging Rock
 subtitle: This week's film club pick is an unconventional Valentine's Day celebration, with a lot more hiding underneath it's dreamy surface
-cover-img: /assets/img/picnicbanner.jpeg
-thumbnail-img: /assets/img/pinicposter.jpeg
+cover-img: /assets/img/picnicbanner.jpg
+thumbnail-img: /assets/img/pinicposter.jpg
 share-img: /assets/img/picnicbanner.jpg
 tags: [good film hunting]
 author: Bianca Wilson
