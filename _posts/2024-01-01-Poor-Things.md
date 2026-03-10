@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poor Things: Unlearning the World
+title: Poor Things
 subtitle: Yorgos Lanthimos' Fusion of Frankenstein and Feminism
 cover-img: /assets/img/sinners2.jpg
 thumbnail-img: /assets/img/sinners1.jpg
