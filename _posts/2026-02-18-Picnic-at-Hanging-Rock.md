@@ -1,3 +1,14 @@
+---
+layout: post
+title: Picnic at Hanging Rock
+subtitle: This week's film club pick is an unconventional Valentine's Day celebration, with a lot more hiding underneath it's dreamy surface
+cover-img: /assets/img/theripbanner.jpeg
+thumbnail-img: /assets/img/theripposter.jpeg
+share-img: /assets/img/theripbanner.jpg
+tags: [good film hunting]
+author: Bianca Wilson
+---
+
 Good Film Hunting was such an unexpected success and the beginning of Uni has put a bit of a pause on my posts here, so this week I have a repost on one of my analysis for the club over on Substack!
 
 It has been such a joy over the past few days seeing everyone contribute to discussions on this week’s pick: Picnic at Hanging Rock. Whether or not people resonated with the film, there were so many nuanced discussions that introduced new angles to Picnic that I hadn’t considered before, so I want to thank everyone who contributed, hopefully everyone else also got something out of the film, and the discussions too.
