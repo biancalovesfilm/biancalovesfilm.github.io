@@ -1,11 +1,22 @@
-"Hail, Mary, full of grace,
+---
+layout: post
+title: Project Hail Mary
+subtitle: The long-awaited adaptation of Andy Weir's bestselling novel, starring Ryan Gosling
+cover-img: /assets/img/phmbanner.jpg
+thumbnail-img: /assets/img/phmposter.jpg
+share-img: /assets/img/phmbanner.jpg
+tags: [2026]
+author: Bianca Wilson
+---
+
+*"Hail, Mary, full of grace,
 the Lord is with thee.
 Blessed art thou amongst women
 and blessed is the fruit of thy womb, Jesus.
 Holy Mary, Mother of God,
 pray for us sinners,
 now and at the hour of our death. 
-Amen."
+Amen."*
 
 This prayer, abbreviated as a Hail Mary, refers to desperate, last-ditch efforts that have little chance of succeeding. Project Hail Mary is aptly named this way, describing the last ditch effort made by the worlds brightest minds to save humanity, using the interstellar ship, the Hail Mary. Ironically, it's captain is named Ryland Grace, so one could say Hail Mary really is full of grace. In that way, the film Project Hail Mary, is no different. It has an emotional core that is tackled with a delightfully unexpected grace from directors Phil Lord and Christopher Miller.
 
